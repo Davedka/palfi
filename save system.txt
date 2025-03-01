@@ -80,3 +80,88 @@ class UserProgress
     public int Level { get; set; } = 1;
     public int Score { get; set; } = 0;
 }
+
+
+
+
+
+static void valasz(bool valasz)
+{
+    if (valasz == true)
+    {
+    Console.WriteLine("a válasz helyes")
+    }
+    else{
+        valasz == false;
+        Console.WriteLine("nem jó")
+    }
+}
+static int matek(int a )
+{
+    int kerdes = 0;
+    Console.WriteLine("hanyadik kérdést szeretnéd?")
+    kerdes = Convert.ToInt32(Console.ReadLine());
+    int valasz = Convert.ToInt32(Console.ReadLine());
+    if (kerdes == 1)
+    {
+        Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek                                                                                                                  
+        van egy 122°-os szöge is.
+        Hány cm hosszú a háromszög 122°-os szögével szemközti oldala?
+        valasz(valasz);
+    }
+    else if (kerdes == 2)
+    {
+        (x^2-4x+4)/(x^2-4) = 2 
+        valasz(valasz);
+    }
+    else if(kerdes == 3)
+    {
+        Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval  tudná odaszállítani ugyanezt a mennyiségű homokot négy ugyanekkora teherautó?                             
+        valasz(valasz);                                                        
+    }
+    else if(kerdes == 4)
+    {
+        Egy meteorológiai állomáson november első hetében az alábbi napi hőmérsékleti maximumokat mérték (celsius fok-ban): 9, 5, 6, 9, 6, 6, 8. Adja meg az adatok átlagát, terjedelmét és mediánját! 
+        valasz(valasz);
+    }
+    else if(kerdes == 5)
+    {
+        Egy vasúti tartálykocsi tömege üres tartállyal 23,8 tonna. Ebben a tartálykocsiban maximum 60 000 liter üzemanyagot szállíthatnak. Egy liter üzemanyag tömege 0,85 kg. feladat: Hány tonna a tartálykocsi tömege tele tartállyal?                                
+        valasz(valasz);                                                        	
+    }
+    else if(kerdes == 6)
+    {
+        Az ABCD paralelogramma AB oldala 8 cm, AC átlója 11 cm hosszú.       Az AB oldal és az AC átló 32fok-os szöget zár be egymással.Az AB oldal és az AC átló 32fok-os szöget zár be egymással.
+                                                                	feladat: Számítsa ki a paralelogramma területét!
+        valasz(valasz);                                                            
+    }
+    else if(kerdes == 7)
+    {
+        Az előző tanévben Janka történelemből kapott első három jegye 3, 3, 4 volt. A tanév                                                                                                                    
+                                                                	hátralevő részében már csak ötösöket kapott.
+                                                                	feladat: Hány ötöst kapott összesen történelemből Janka, ha tudjuk, hogy a tanév végén éppen 4,5 lett az átlaga?
+                                                                    valasz(valasz);
+    }
+    else if(kerdes == 8)
+    {
+        Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk?
+        valasz(valasz);
+    }
+    else if(kerdes == 9)
+    {
+        Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!                                                                                                                            
+                                                                		„Volt olyan nap a múlt héten, amikor esett az eső.”
+                                                                	A: A múlt héten minden nap esett az eső.
+                                                                	B: Nem volt olyan nap a múlt héten, amikor esett az eső.      
+                                                                	C: Volt olyan nap a múlt héten, amikor nem esett az eső.
+                                                                    valasz(valasz);
+    }
+    else if (kerdes == 10)
+    {
+        Oldja meg az alábbi egyenletet a valós számok halmazán!                                                                                                                                                  
+                                                                			|x −4| = 1
+                                                                            valasz(valasz);
+                                                                            SaveProgress(string filePath, UserProgress progress)
+    }
+
+}
