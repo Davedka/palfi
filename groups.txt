@@ -42,12 +42,11 @@ A          B       							                                                      
                                                                 
                                                                 8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk? 
                                                                 
-                                                                9.	Válassza ki az alábbiak közül az összes állítást, amely tagadása a következőnek!
+                                                                9.	Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!      megoldás: C
                                                                 		„Volt olyan nap a múlt héten, amikor esett az eső.”
                                                                 	A: A múlt héten minden nap esett az eső.
-                                                                	B: A múlt héten egyik nap sem esett az eső.
-                                                                	C: Nem volt olyan nap a múlt héten, amikor esett az eső.
-                                                                	D: Volt olyan nap a múlt héten, amikor nem esett az eső.
+                                                                	B: Nem volt olyan nap a múlt héten, amikor esett az eső.      
+                                                                	C: Volt olyan nap a múlt héten, amikor nem esett az eső.
                                                                 
                                                                 10.	Oldja meg az alábbi egyenletet a valós számok halmazán!
                                                                 			|x −4| = 1
