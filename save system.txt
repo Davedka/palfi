@@ -1,0 +1,82 @@
+ public bool CreateFile(string path, string text)
+        {
+            using (FileStream fs = File.Create(path))
+            {
+                // Take input from the text string
+                AddText(fs, text);
+
+                // add the next two lines after the input text
+                AddText(fs, "\r\nThis is some more text,");
+                AddText(fs, "\r\nand this is on a new line");
+
+                return true;
+            }
+
+            return false;
+
+        }
+
+
+ public bool DeleteFile(string path)
+        {
+            if (File.Exists(path))
+            {
+                File.Delete(path);
+            }
+
+            return true;
+        }
+
+
+
+
+
+
+
+using System;
+using System.IO;
+using Newtonsoft.Json;
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "progress.json";
+
+        // 1️⃣ Betöltjük az előző állapotot, ha létezik
+        UserProgress progress = LoadProgress(filePath);
+
+        Console.WriteLine($"Mostani szint: {progress.Level}, pontszám: {progress.Score}");
+
+        // 2️⃣ Frissítjük az adatokat
+        progress.Level++;
+        progress.Score += 50;
+
+        Console.WriteLine($"Új szint: {progress.Level}, új pontszám: {progress.Score}");
+
+        // 3️⃣ Lementjük az új állapotot
+        SaveProgress(filePath, progress);
+    }
+
+    static void SaveProgress(string filePath, UserProgress progress)
+    {
+        string json = JsonConvert.SerializeObject(progress, Formatting.Indented);
+        File.WriteAllText(filePath, json);
+    }
+
+    static UserProgress LoadProgress(string filePath)
+    {
+        if (File.Exists(filePath))
+        {
+            string json = File.ReadAllText(filePath);
+            return JsonConvert.DeserializeObject<UserProgress>(json);
+        }
+        return new UserProgress(); // Ha nincs fájl, új állapot indul
+    }
+}
+
+class UserProgress
+{
+    public int Level { get; set; } = 1;
+    public int Score { get; set; } = 0;
+}
