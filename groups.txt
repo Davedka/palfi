@@ -161,3 +161,44 @@ válasz: Viego
 10. Melyik bajnok képes arra, hogy egy nagy területet robbanásveszélyes zónává változtasson, amely késleltetett sebzést okoz?
 válasz: Bel’Veth
 
+nyelvtan
+1.
+a) bérmálkozás
+b) bérmákozás
+c) bérmálás ✅
+2.
+a) ínyenc ✅
+b) ínyensz
+c) ínyencz
+3.
+a) szimpatikus ✅
+b) szímpatikus
+c) szimpáttikus
+4.
+a) egyhangúan ✅
+b) egyhangúan
+c) egyhangúlyan
+5.
+a) kettőzzük ✅
+b) kettőzük
+c) kettőzzük meg
+6.
+a) egyetérteni ✅
+b) egyet érteni
+c) eggyetérteni
+7.
+a) helyesírás ✅
+b) helyes írás
+c) hejesírás
+8.
+a) kegyenc ✅
+b) kegyensz
+c) kegyens
+9.
+a) szüntelen ✅
+b) szüntetlen
+c) szüntetetlen
+10.
+a) tulajdonképpen ✅
+b) tulajdon képpen
+c) tulajdónképpen
