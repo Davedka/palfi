@@ -1,0 +1,93 @@
+    1. Ki az a jani a b c a- lepcsore hugyozott es kopkod jani b- thevrjani c- thevrpisti if roszul valaszol reset es valaszolni 5sec alatt milyrn kutyat szeret
+    2.Morvai milyen bizniszt kezdett el 10.be a- dropship b - gamba c- thevrpisti if rosz valasz 5sec alatt menyi 1 kolumbiai penz forintba ha nem tudja 5sec alatt akor random number es ha az 2 akkor quit ha 1 akkor visza viszi az 1kerdesre
+    3.mikor jott ki az nfs heat a- 2022 b - 2005 c- 2019
+    4.mi volt a legelso nfs amivel jatszottam (dawe) a- nfs underground  b- nfs no limits (mobil) c- nfs most wanted ez egy becsapos kerdes egyik se jo extra punishment
+    5.kokinak hany centi a kukija a- python b- ---> c- --<
+    6.az elso demonkiraly hany sor volt az eredeti a-500 b- 1100 c- thevrpisti 
+    7.thevr pisitinek mi volt az elso nagyobb rage-e videoban ami hungarikummá vált milyen játék és mikor
+    8.mi az élet értelme a- ketto nulla ketto negy b - 42 c - thevrpisti 
+    9.hogy kerül a füre lépni tilos tábla a gyeo közepére a- odaraktak b- odakerult c- ledobtak az ufok
+    10.mennyi 15710 piros gombnak a fele a- anegyzeten ami gyok alatt van szor 2vel b- 7855 c- sokféle
+    11.ha fürdés után tiszták vagyunk miert kell kimosni a torolkozot a- mert b- mert koszos c- mert tiszta
+    12.kijatszhatja e tamas a darksoulst a - igen b - nem c- thevrjani
+    13.ha egy versenyen megelozod a masodikat akkor hanyadik leszel a- masodik b- elso c- 3
+    14.mi tortent a varoshazaval mikor magyar peti es az ismeretlen tidzasok bevonultak a - felribbant b - nagasaki c- kerdeztek magyar petit de nem valaszolt
+    15.mi a legszebb hely a dark souls 1be a - anor londo b- lost izalith c- vrjani teste 
+    16.hogy lehet eljutni a w hez a tamasek gamejeben (labirintus) a- balra fel balra fel le jobbra b - jobbra le fel balra pontosan oda c- fel fel jobbra jobbra jobbra fel fel fel jobbra addig amig nem balra
+    17.mekkora az a torony amit 20000 méterrol 38 fokos szögben latsz 
+    18.miert nem figyrl zeteny oran a- autista b- amnezias c- mert dolgozik becsapos 
+    19.dark soulsban mi az a giant dad build a- max armor, ultra kard b- no armor, broken sword c- langszoro
+    20.menyi ido alatt lehet kivinni a darksouls atlagban 1 et a- 12ora b - 5nap c- 24ora
+21. Rendben! Készítek olyan matematikai feladatokat, amelyek kezdőbetűiből ki lehet rakni a "KETTŐ NULLA KETTŐ NÉGY" szavakat.
+
+K – Kombinatorika
+Hányféleképpen lehet elrendezni az "ABCD" betűket, ha mind különböző?
+
+E – Egyenletrendszer
+Oldd meg az alábbi egyenletrendszert:
+
+2
+𝑥
++
+3
+𝑦
+=
+7
+2x+3y=7
+4
+𝑥
+−
+𝑦
+=
+5
+4x−y=5
+T – Térgeometria
+Mekkora egy szabályos tetraéder térfogata, ha az éle 6 cm hosszú?
+
+T – Trigonometria
+Mennyi a sin(30°) és cos(60°) összege?
+
+Ő – Ősszeadás (Összeadás, de "Ő" betűvel kezdve)
+Mennyi az 1234 + 5678 összege?
+
+N – Négyzetgyök
+Mennyi a √169 értéke?
+
+U – Ugrásszerű sorozatok
+Mi a következő szám a sorozatban? 2, 4, 8, 16, 32, ...
+
+L – Logaritmus
+Mennyi a log₂(32) értéke?
+
+L – Lineáris algebra
+Ha egy mátrix determinánsa 0, mit jelent ez a mátrixra nézve?
+
+A – Algebra
+Mennyi (x - 2)(x + 3) kifejezés szorzata?
+
+K – Kitevők
+Mennyi 2⁵ értéke?
+
+E – Egyenes egyenlete
+Mi az egyenlete annak az egyenesnek, amely áthalad az (1,2) és (3,6) pontokon?
+
+T – Tangens
+Mennyi a tan(45°) értéke?
+
+T – Térfogat
+Mekkora egy 10 cm sugarú gömb térfogata?
+
+Ő – Ősi számrendszerek (Római számok)
+Milyen számot jelent az MCMLXXXIV római szám?
+
+N – Négyzetszámok
+Melyik a legkisebb háromjegyű négyzetszám?
+
+É – Értékkészlet
+Mi az f(x) = x² - 4 függvény értékkészlete?
+
+G – Geometria
+Hány fokos a szabályos ötszög egy belső szöge?
+22. 
+23.
+
