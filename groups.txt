@@ -68,13 +68,13 @@ A          B       							                                                      
        																
 
 progi
-																																																																																																																																																					1. mit jelent a c# a- csharp b- c hastag b- éles cbetű		
-																																																																																																																																																					2. mi a rövidítése a htmlnek (válaszolós) Hypertext Markup Language
-																																																																																																																																																					3. irjon fel egy for-t foreach ként (elmondja)
-																																																																																																																																																					4. egy if be egybe lehet belerakni-e and és or-t nem mert ez c#
-																																																																																																																																																					5. mekkora legkisebb tömbnek az indexe 
-																																																																																																																																																					6. for lehet e végtelen 
-																																																																																																																																																					7. eljárás tud e használni return t
-																																																																																																																																																					8. mekkora lehet egy elágazás
-																																																																																																																																																					9. mit jelent a py 
-																																																																																																																																																					10. lehet e fügvényt meghivni az öszes paraméter nélkül	
+																																																																																																																																							1. mit jelent a c# a- csharp b- c hastag b- éles cbetű		
+																																																																																																												2. mi a rövidítése a htmlnek (válaszolós) Hypertext Markup Language
+																																																																																																																																							3. irjon fel egy for-t foreach ként (elmondja)
+																																																																																																																																								4. egy if be egybe lehet belerakni-e and és or-t nem mert ez c#
+																																																																																																																																								5. mekkora legkisebb tömbnek az indexe 
+																																																																																																																																								6. for lehet e végtelen 
+																																																																																																																																								7. eljárás tud e használni return t
+																																																																																																																																							8. mekkora lehet egy elágazás
+																																																																																																																																								9. mit jelent a py 
+																																																																																																																																								10. lehet e fügvényt meghivni az öszes paraméter nélkül	
