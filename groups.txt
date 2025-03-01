@@ -17,39 +17,39 @@ A          B       							                                                      
 
 
                                                                                                               matek
-                                                                1. Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek megoldás: 13,2 cm
+                                                                1. Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek                                                                                                                         megoldás: 13,2 cm
                                                                    van egy 122°-os szöge is.
                                                                    Hány cm hosszú a háromszög 122°-os szögével szemközti oldala?
                                                                 
-                                                                2. (x^2-4x+4)/(x^2-4) = 2 megoldás: 2 és -6
+                                                                2. (x^2-4x+4)/(x^2-4) = 2                                                                                                                                                                                   megoldás: 2 és -6
                                                                 
-                                                                3. 	Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval 
+                                                                3. 	Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval                               megoldás: 10
                                                                 	tudná odaszállítani ugyanezt a mennyiségű homokot négy ugyanekkora teherautó?
                                                                 
-                                                                4.	Egy meteorológiai állomáson november első hetében az alábbi napi hőmérsékleti maximumokat mérték (C-ban): 9, 5, 6, 9, 6, 6, 8. Adja meg az adatok átlagát, terjedelmét és
-                                                                	mediánját!
+                                                                4.	Egy meteorológiai állomáson november első hetében az alábbi napi hőmérsékleti maximumokat mérték (celsius fok-ban): 9, 5, 6, 9, 6, 6, 8. Adja meg az adatok átlagát, terjedelmét és mediánját!          megoldás: 7, 4 és 6
                                                                 
-                                                                5.	Egy vasúti tartálykocsi tömege üres tartállyal 23,8 tonna. Ebben a tartálykocsiban maximum 60 000 liter üzemanyagot szállíthatnak. Egy liter üzemanyag tömege 0,85 kg.
+                                                                5.	Egy vasúti tartálykocsi tömege üres tartállyal 23,8 tonna. Ebben a tartálykocsiban maximum 60 000 liter üzemanyagot szállíthatnak. Egy liter üzemanyag tömege 0,85 kg.                                  megoldás: 74,8 tonna
                                                                 	feladat: Hány tonna a tartálykocsi tömege tele tartállyal?
                                                                 
-                                                                6.	Az ABCD paralelogramma AB oldala 8 cm, AC átlója 11 cm hosszú.
+                                                                6.	Az ABCD paralelogramma AB oldala 8 cm, AC átlója 11 cm hosszú.                                                                                                                                          megoldás: 46,6 cm2
                                                                 	Az AB oldal és az AC átló 32fok-os szöget zár be egymással.
                                                                 	feladat: Számítsa ki a paralelogramma területét!
                                                                 
-                                                                7.	Az előző tanévben Janka történelemből kapott első három jegye 3, 3, 4 volt. A tanév
+                                                                7.	Az előző tanévben Janka történelemből kapott első három jegye 3, 3, 4 volt. A tanév                                                                                                                      megoldás: 7 ötös
                                                                 	hátralevő részében már csak ötösöket kapott.
                                                                 	feladat: Hány ötöst kapott összesen történelemből Janka, ha tudjuk, hogy a tanév végén éppen 4,5 lett az átlaga?
                                                                 
-                                                                8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk?   megoldás: 9
+                                                                8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk?                                                                                                                                                 megoldás: 9
                                                                 
-                                                                9.	Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!      megoldás: C
+                                                                9.	Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!                                                                                                                             megoldás: C
                                                                 		„Volt olyan nap a múlt héten, amikor esett az eső.”
                                                                 	A: A múlt héten minden nap esett az eső.
                                                                 	B: Nem volt olyan nap a múlt héten, amikor esett az eső.      
                                                                 	C: Volt olyan nap a múlt héten, amikor nem esett az eső.
                                                                 
-                                                                10.	Oldja meg az alábbi egyenletet a valós számok halmazán!     megoldás: 5 és 3
+                                                                10.	Oldja meg az alábbi egyenletet a valós számok halmazán!                                                                                                                                                     megoldás: 5 és 3
                                                                 			|x −4| = 1
+
 
 
 
