@@ -17,13 +17,13 @@ A          B       							                                                      
 
 
                                                                                                               matek
-                                                                1. Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek
+                                                                1. Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek megoldás: 13,2 cm
                                                                    van egy 122°-os szöge is.
                                                                    Hány cm hosszú a háromszög 122°-os szögével szemközti oldala?
                                                                 
-                                                                2. (x^2-4x+4)/(x^2-4) = 2
+                                                                2. (x^2-4x+4)/(x^2-4) = 2 megoldás: 2 és -6
                                                                 
-                                                                3. 	Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval
+                                                                3. 	Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval 
                                                                 	tudná odaszállítani ugyanezt a mennyiségű homokot négy ugyanekkora teherautó?
                                                                 
                                                                 4.	Egy meteorológiai állomáson november első hetében az alábbi napi hőmérsékleti maximumokat mérték (C-ban): 9, 5, 6, 9, 6, 6, 8. Adja meg az adatok átlagát, terjedelmét és
@@ -40,7 +40,7 @@ A          B       							                                                      
                                                                 	hátralevő részében már csak ötösöket kapott.
                                                                 	feladat: Hány ötöst kapott összesen történelemből Janka, ha tudjuk, hogy a tanév végén éppen 4,5 lett az átlaga?
                                                                 
-                                                                8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk? 
+                                                                8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk?   megoldás: 9
                                                                 
                                                                 9.	Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!      megoldás: C
                                                                 		„Volt olyan nap a múlt héten, amikor esett az eső.”
@@ -48,5 +48,5 @@ A          B       							                                                      
                                                                 	B: Nem volt olyan nap a múlt héten, amikor esett az eső.      
                                                                 	C: Volt olyan nap a múlt héten, amikor nem esett az eső.
                                                                 
-                                                                10.	Oldja meg az alábbi egyenletet a valós számok halmazán!
+                                                                10.	Oldja meg az alábbi egyenletet a valós számok halmazán!     megoldás: 5 és 3
                                                                 			|x −4| = 1
