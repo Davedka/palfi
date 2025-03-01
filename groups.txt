@@ -1,4 +1,4 @@
-A          B       							                                                                            Palfi
+A          B       							                                                                            Palfi        
                                              										1. Ki az a jani a b c a- lepcsore hugyozott es kopkod jani b- thevrjani c- thevrpisti
                                              										2.Morvai milyen bizniszt kezdett el 10.be a- dropship b - gamba c- thevrpisti
                                             									        3.mikor jott ki az nfs heat a- 2022 b - 2005 c- 2019
@@ -14,3 +14,40 @@ A          B       							                                                      
                                              										13.ha egy versenyen megelozod a masodikat akkor hanyadik leszel a- masodik b- elso c- 3
                                             										14.mi tortent a varoshazaval mikor magyar peti es az ismeretlen tidzasok bevonultak a - felribbant b - nagasaki c- kerdeztek magyar petit de nem valaszolt
                                              										15.mi a legszebb hely a dark souls 1be a - anor londo b- lost izalith c- vrjani teste 
+
+
+                                                                                                              matek
+                                                                1. Egy háromszög 11 cm hosszú oldalával szemközti szöge 45°-os. Ennek a háromszögnek
+                                                                   van egy 122°-os szöge is.
+                                                                   Hány cm hosszú a háromszög 122°-os szögével szemközti oldala?
+                                                                
+                                                                2. (x^2-4x+4)/(x^2-4) = 2
+                                                                
+                                                                3. 	Egy építkezésre teherautókkal szállítják a homokot. Öt egyforma teherautó mindegyikének nyolcszor kellene fordulnia, hogy az összes homokot odaszállítsák. Hány fordulóval
+                                                                	tudná odaszállítani ugyanezt a mennyiségű homokot négy ugyanekkora teherautó?
+                                                                
+                                                                4.	Egy meteorológiai állomáson november első hetében az alábbi napi hőmérsékleti maximumokat mérték (C-ban): 9, 5, 6, 9, 6, 6, 8. Adja meg az adatok átlagát, terjedelmét és
+                                                                	mediánját!
+                                                                
+                                                                5.	Egy vasúti tartálykocsi tömege üres tartállyal 23,8 tonna. Ebben a tartálykocsiban maximum 60 000 liter üzemanyagot szállíthatnak. Egy liter üzemanyag tömege 0,85 kg.
+                                                                	feladat: Hány tonna a tartálykocsi tömege tele tartállyal?
+                                                                
+                                                                6.	Az ABCD paralelogramma AB oldala 8 cm, AC átlója 11 cm hosszú.
+                                                                	Az AB oldal és az AC átló 32fok-os szöget zár be egymással.
+                                                                	feladat: Számítsa ki a paralelogramma területét!
+                                                                
+                                                                7.	Az előző tanévben Janka történelemből kapott első három jegye 3, 3, 4 volt. A tanév
+                                                                	hátralevő részében már csak ötösöket kapott.
+                                                                	feladat: Hány ötöst kapott összesen történelemből Janka, ha tudjuk, hogy a tanév végén éppen 4,5 lett az átlaga?
+                                                                
+                                                                8.	Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk? 
+                                                                
+                                                                9.	Válassza ki az alábbiak közül az összes állítást, amely tagadása a következőnek!
+                                                                		„Volt olyan nap a múlt héten, amikor esett az eső.”
+                                                                	A: A múlt héten minden nap esett az eső.
+                                                                	B: A múlt héten egyik nap sem esett az eső.
+                                                                	C: Nem volt olyan nap a múlt héten, amikor esett az eső.
+                                                                	D: Volt olyan nap a múlt héten, amikor nem esett az eső.
+                                                                
+                                                                10.	Oldja meg az alábbi egyenletet a valós számok halmazán!
+                                                                			|x −4| = 1
