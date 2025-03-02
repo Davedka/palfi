@@ -8,27 +8,11 @@ Először is Kiss Dávid csinált egyb txt-t amibe felirta a kérdéseket majd e
 A program ugy működik hogy egy json file-ba tároljuk el a kérdéseket és válaszokat tömb-ként mivel nehezen lehetett volna megoldani vagyis inkább nem volt felhasználó barát az hogy a tanár úr ija be az utat ahova letöltötte a programot ezért a json-nel megoldottuk hogy akárhova tölti a programot ugyis lefog futni.
 
 
-  ezzel a kód-blokkal tudja betölteni a felhasználó a mentését  gyakorlatilag annyi hogyha létezik a file akkor megnyitja és ha nem akkor egy ujjat csinál
+  
  
-  static UserProgress LoadProgress(string filePath)
-    {
-        if (File.Exists(filePath))
-        {
-            string json = File.ReadAllText(filePath);
-            return JsonConvert.DeserializeObject<UserProgress>(json);
-        }
-        return new UserProgress(); // Ha nincs fájl, új állapot indul
-    }
-}
 
-ez az eljárás csinálja meg hogy lementse az állást minden kategória után van mentés nem minden kérdés után
 
-static void SaveProgress(string filePath, UserProgress progress)
-    {
-        string json = JsonConvert.SerializeObject(progress, Formatting.Indented);
-        File.WriteAllText(filePath, json);
-    }
-    ezek alkottják a program működését
+
 
 
     while (index < questions.Length)
@@ -44,4 +28,26 @@ static void SaveProgress(string filePath, UserProgress progress)
                 Console.WriteLine("Rossz válasz, próbáld újra!");
             }
         }
+
+
+        static void SaveProgress(string filePath, UserProgress progress)
+    {
+        string json = JsonConvert.SerializeObject(progress, Formatting.Indented);
+        File.WriteAllText(filePath, json);
+    }
+    ezek alkottják a program működését
+    ez az eljárás csinálja meg hogy lementse az állást minden kategória után van mentés nem minden kérdés után
+
+
+
+     static UserProgress LoadProgress(string filePath)
+    {
+        if (File.Exists(filePath))
+        {
+            string json = File.ReadAllText(filePath);
+            return JsonConvert.DeserializeObject<UserProgress>(json);
+        }
+        return new UserProgress(); // Ha nincs fájl, új állapot indul
+    }
     
+}
