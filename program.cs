@@ -64,7 +64,7 @@ class Program
             "S1mple-nek hltv top1je van a-3 b-5 c-10",
             "mikor volt a legelső major a- 2005 b- 2010 c- 2013",
             "mikor volt az legutóbbi major 2024-ben a- január b- március c - december"
-            Ádám Torzsi Torzsás mióta van a MouzSportsban (beleszámitva amikor az akadémiába érkezett) a -3év b- 5hónap c- 4év",
+            "Ádám Torzsi Torzsás mióta van a MouzSportsban (beleszámitva amikor az akadémiába érkezett) a -3év b- 5hónap c- 4év",
             "miért kellet nerfelni 2015 elején az awp-t (válaszolós kérdés)",
             "Donk 17 éves cs prodigy orosz hol és mikor szerezte meg az első mvp-jét egy s-tier tournamenten 2024"
         };
