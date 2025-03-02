@@ -32,7 +32,7 @@ class Program
                                                                 	feladat: Hány ötöst kapott összesen történelemből Janka, ha tudjuk, hogy a tanév végén éppen 4,5 lett az átlaga?",
             "Hányadik hatványra kell emelni a 2-t, hogy 512-t kapjunk?",
             "Válassza ki az alábbiak közül azt az állítást, amely tagadása a következőnek!                                                                                                                             
-                                                                		„Volt olyan nap a múlt héten, amikor esett az eső.”
+                                                                		Volt olyan nap a múlt héten, amikor esett az eső.
                                                                 	A: A múlt héten minden nap esett az eső.
                                                                 	B: Nem volt olyan nap a múlt héten, amikor esett az eső.      
                                                                 	C: Volt olyan nap a múlt héten, amikor nem esett az eső.",  
