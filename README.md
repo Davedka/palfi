@@ -28,7 +28,7 @@ A program ugy működik hogy egy json file-ba tároljuk el a kérdéseket és v�
                 Console.WriteLine("Rossz válasz, próbáld újra!");
             }
         }
-
+      ez lenne az a while ami megnézi hogy rosz válasz vagy helyes válasz
 
         static void SaveProgress(string filePath, UserProgress progress)
     {
@@ -48,6 +48,5 @@ A program ugy működik hogy egy json file-ba tároljuk el a kérdéseket és v�
             return JsonConvert.DeserializeObject<UserProgress>(json);
         }
         return new UserProgress(); // Ha nincs fájl, új állapot indul
+      }  
     }
-    
-}
