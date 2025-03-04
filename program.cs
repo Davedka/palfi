@@ -8,10 +8,8 @@ class Program
     {
         string filePath = "progress.json";
 
-        // 1️⃣ Betöltjük az előző állapotot, ha létezik
         UserProgress progress = LoadProgress(filePath);
 
-        // 2️⃣ Frissítjük az adatokat
         System.Console.WriteLine("Szia, ebben a 'játékban' 10 kategóri 10 kérdését fogod megválaszolni. Viszont ha elrontssz egy kérdést akkor egy kategóriával visszább kerülsz, az első kategória kivétel ez alól. Jó szórakozást!");
         while (true)
         {
@@ -430,7 +428,7 @@ class Program
                 "7. Az oktáv hány hangot fog le összesen a zongorán (nem csak egész)?\na) 13\nb) 8\nc) 1",
                 "8. SzZA eddig hány szóló csellóversenyen vett részt?\na) 0\nb) 4\nc) 10",
                 "9. Ki írta a Für Elise-t?\na) Liszt Ferenc\nb) Beethoven\nc) Haydn",
-                "10. Összesen hány hangszert birtokol a csoport?\na) 16\nb) \nc) eddig 13"
+                "10. Összesen hány hangszert birtokol a csoport?\na) legalább 16\nb) legalább 420\nc) legalább 13"
             };
 
             string[] answers =
